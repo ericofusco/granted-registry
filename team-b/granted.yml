@@ -1,2 +1,2 @@
 awsConfig:
-- ./public/team-b/org
+- ../public/team-b/org
