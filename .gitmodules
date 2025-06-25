@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ericofusco/granted-registry-public.git
+[submodule "private"]
+	path = private
+	url = https://github.com/ericofusco/granted-registry-private.git
